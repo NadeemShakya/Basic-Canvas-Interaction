@@ -6,4 +6,4 @@ In this project, we'll see how to interact with the HTML5 Canvas to create some 
 
 ### Screenshot
 
-<img src = "screenshot.png" width = "600" height = "400">
+<img src = "screenshot.png">
